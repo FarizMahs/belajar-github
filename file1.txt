@@ -2,4 +2,5 @@ Nama = Fariz
 TTL = Depok, 13 Juli 2008
 Hobi = ngoding anjay
 Cita2 = Cloud Architect
-Makanan fav0orit = tempek
+Minuman Favorit = es peju
+
